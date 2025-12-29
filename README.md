@@ -27,7 +27,7 @@ When capturing output from a Cisco device, the session often includes interactiv
 ## 🚀 Usage
 
 1. **Run the script:**
-python cleaner.py
+python clean_files.py
 
 
 
